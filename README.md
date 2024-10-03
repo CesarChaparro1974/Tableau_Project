@@ -1,41 +1,24 @@
 # Saving SuperStore
 
 ## Overview
-* This is an updated and better version of my movie app, where I only had 10 personal movies, This app fetches data from the TMDB API to show information about movies. This App also uses another Api that allows the user to send voice command to the app and the app will do it. 
+* The superstore is in peril! I have been hired as a consultant to review the superstore’s operations and increase its profitability to avoid bankruptcy.
+For each question, you should prepare an individual visualization that justifies your conclusion.
 
-### Question/Commands you can ask the app and the app will give you an answer or action.
+### Part 1: Profits & losses
+First, we'll try to identify the important centers of profit and loss for the superstore.
 
-1. What does this app do?
-2. Give the command [go to] "pick a genre/category"
-3. Give the command "Change screen Mode" 
-4. More command and functionalities to come... 
-
-### Prerequisites
-* You need to create an account and get an API key in the MovieDatabase Api [Follow the link -> ](https://developers.themoviedb.org/3)
-
-### Functionality
-
-* It allows the user to click on a specific Genre and the app fetches movies according to that Genre. 
-* Once the user clicks on a specific movie, the app will display information about the movie, from reviews to the cast. And according to the specific movie clicked the User will be able to see recommended movies that are similar to the clicked one. 
-* You can also ask the app 
-
-### Images
-![Image](src/Img/darkmode.png)
-![Image](src/Img/lightmode.png )
-![Image](src/Img/infolight.png )
-![Image](src/Img/infodark.png )
-
-### Technologies
-* To build this app latest technologies were used, using React hooks and Redux for state management. As for Css this app uses Material UI for some parts, and the most using css grid/flex. 
-
-- React JS
-- React Router
-- Redux, Redux-Thunk
-- MaterialUI
-- SCSS modules
+1. Among the pairs of dimensions (e.g., subcategory + region, or shipping mode + product ID) which are the two biggest profit centers and two biggest loss-makers? Justified conclusion with a visualization.
+2. Which products should the superstore stop selling? Justified conclusion with a visualization.
+3. Which product subcategories should the store focus on and which should they stop selling? There are 3 of each.
 
 
-### Installing 
-* Clone the Repo and run npm install and npm run to run on localhost
 
-[Click here to see live Version --> ](https://newmovies.netlify.app)
+### Part 2: Advertising
+* The superstore wants to know if advertising would be worth it. Advertising works over time and geography, and the average profit per unit sold should be high enough to justify it.
+
+1. Identify the 3 best combinations of states and month of the year to advertise in. There is a visualization of the average profit for each month of the year for those 3 states and argued how much we would be willing to pay in advertising for those states in those months.
+
+### Part 3: Returned items
+
+* In the last part, we’ll use the Returns table to see if some products have abnormal rates of being returned to the store.
+* In a separate sheet, there is a visualization of the average profit against the average return rate on a dimension choosen (state, shipping mode, product type, etc.). I present a visual argument why the superstore should do away with or keep doing business on the basis of this dimension.
