@@ -1,4 +1,4 @@
-# MOVIE APP USING TMDB
+# Saving SuperStore
 
 ## Overview
 * This is an updated and better version of my movie app, where I only had 10 personal movies, This app fetches data from the TMDB API to show information about movies. This App also uses another Api that allows the user to send voice command to the app and the app will do it. 
