@@ -22,3 +22,13 @@ First, we'll try to identify the important centers of profit and loss for the su
 
 * In the last part, we’ll use the Returns table to see if some products have abnormal rates of being returned to the store.<br>
 * In a separate sheet, there is a visualization of the average profit against the average return rate on a dimension choosen (state, shipping mode, product type, etc.). I present a visual argument why the superstore should do away with or keep doing business on the basis of this dimension.
+
+[Click here to see live dashboard 1 --> ](https://public.tableau.com/views/Dashboard3Project4_17033284192010/Salesofreturnsreturnratedashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Click here to see live dashboard 2 --> ](https://public.tableau.com/views/Dashboard2Project4_17033283752410/Locationcategorydashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Click here to see live dashboard 3 --> ](https://public.tableau.com/views/Dashboard1Project4_17033283314790/ReturnRatebyTimeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Click here to see live dashboard 4 --> ](https://public.tableau.com/views/DraftProject4_17033280143660/DraftStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Click here to see live dashboard 5 --> ](https://public.tableau.com/views/SupersoreAnalysis/Superstore?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
